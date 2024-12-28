@@ -32,5 +32,5 @@ LTI Assignment
 [Click Here!](https://github.com/lyca-byte/Tutorial-Git/tree/main/Darla)
 
 ### Disa
-To-Do List Applicatio
+To-Do List Application
 [Click Here!](https://github.com/Disa-Fajar/Tutorial-Git/tree/main/Disa)
